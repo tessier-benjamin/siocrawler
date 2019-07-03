@@ -16,6 +16,7 @@ Le développement tourne autour de 3 grandes parties
 3. la sauvegarde des personnages et du contexte du jeu
 
 |      **développement**      | **langages** |          **technique de programmation**       			|
+|-----------------------------|:------------:|---------------------------------------------------------:|
 | inscription en ligne		  | php, Mysql   |   développement web MVC avec Code Igniter    			|
 | sio crawler le jeu          | c#           |   programmation objet, tests unitaires        			|
 | sauvegarde du contexte      | c#, Mysql    |   programmation procédural procédures stockées en Mysql  |
