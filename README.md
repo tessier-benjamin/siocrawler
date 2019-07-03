@@ -25,20 +25,20 @@ Le développement tourne autour de 3 grandes parties
 L'inscription en ligne.
 -----------------
 site web permettant à un joueur de s'inscrire en ligne le projet prévoit le principe suivant pour l'inscription en ligne.
-!(C:\Users\btessier\Desktop\git\imagesTpGit\acteurFluxInscription.png)
+![](C:\Users\btessier\Desktop\git\imagesTpGit\acteurFluxInscription.png)
 
 sio crawler le jeu
 -----------------
 le joueur possédera les fonctionnalités suivantes
 
-!(C:\Users\btessier\Desktop\git\imagesTpGit\useCasePersonnage.png)
+![](C:\Users\btessier\Desktop\git\imagesTpGit\useCasePersonnage.png)
 
 les classes développées
 
-!(C:\Users\btessier\Desktop\git\imagesTpGit\diagrammeClassePersonnage.png)
+![](C:\Users\btessier\Desktop\git\imagesTpGit\diagrammeClassePersonnage.png)
 
 Sauvegarde du contexte
 -----------------
 la sauvegarde du contexte se fera dans la base de données
 
-!(C:\Users\btessier\Desktop\git\imagesTpGit\mcdSauvegarde.png)
+![](C:\Users\btessier\Desktop\git\imagesTpGit\mcdSauvegarde.png)
